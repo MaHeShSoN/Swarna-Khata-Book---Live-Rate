@@ -45,7 +45,10 @@ A modern Android application that provides real-time gold and silver prices with
 
 ## 📱 App Screenshots
 
-*Note: Screenshots would be added here to showcase the app's interface*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9dee94c0-2e2b-417d-a59d-529830bd265e" width="200"/>  
+  <img src="https://github.com/user-attachments/assets/30f5697b-e844-41de-8a5b-1702cea69a71" width="200"/>
+</p>
 
 ## 🚀 Key Functionalities
 
